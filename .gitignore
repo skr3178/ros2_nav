@@ -73,3 +73,7 @@ Makefile
 *.tar.gz
 *.zip
 *.7z
+
+# Exclude turtlebot3_ws src folder
+turtlebot3_ws/src/
+

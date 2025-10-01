@@ -111,4 +111,15 @@ Prints the relationship: frames_2025-09-27_20.29.02.pdf
 ``` ros2 run tf2_tools view_frames```
 
 
+Run the commands in order:
+```
 
+```
+
+```
+
+```
+
+```
+
+```
